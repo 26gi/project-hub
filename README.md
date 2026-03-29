@@ -9,7 +9,7 @@
 
 ```bash
 # 1. リポジトリをクローン
-git clone <repository-url>
+git clone https://github.com/26gi/project-hub
 cd project-hub
 
 # 2. フロントエンドの依存パッケージをインストール
